@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://koikbin.github.io/sitemap.xml
