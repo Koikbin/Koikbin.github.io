@@ -6,4 +6,8 @@ title = 'My New Hugo Site'
 [[module.imports]]
     path = 'github.com/jpanther/congo/v2'
 
+enableRobotsTXT = false  #預設為true
+
+[outputs]
+  home = ["HTML", "RSS", "SITEMAP"]
 
